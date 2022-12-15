@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- - 🛠 &nbsp; I’m currently working with Golang, Nodejs, C++, Gitlab-CI, RestAPI, Javascript, etc. -->
 <!-- - 🚀 &nbsp; I’m currently working at [NotionTheory](https://notiontheory.com). -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hossamfadeel).
-- 📫 &nbsp; How to reach me: zxcv2008a@gmail.com.
+- 📫 &nbsp; How to reach me: hossamfadeel@gmail.com.
 
 ### My Absolute Favorites:
 
