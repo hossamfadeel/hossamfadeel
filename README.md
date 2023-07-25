@@ -73,6 +73,10 @@
 ### Software and Tools:
 - Xilinx (Vitis HLS, Vivado, Vitis)
 - Intel (Quartus Prime, oneAPI)
+- MATLAB
+- Synopsys: Design Compiler, VCS, IC Compiler.
+- Cadence: Genus, Xcelium 
+- Mentor Graphics ModelSim/Questa
 
 ### Protocols:
 - AXI-4 MM, Lite, and Stream protocol
