@@ -43,7 +43,50 @@
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-### Languages and Tools:
+## Skills
+
+### Programming Languages:
+- Verilog
+- SystemVerilog
+- VHDL
+- Python
+- C
+- Tcl
+- Bash
+
+### Hardware Platforms:
+- Xilinx FPGAs
+- Altera FPGAs
+- STM32 Microcontroller
+
+### Software and Tools:
+- Xilinx Vivado HLS
+- Xilinx DSP & HBM primitives
+- Xilinx Accelerators cards (U55, U280, U250)
+
+### Protocols:
+- AXI-4 MM, Lite, and Stream protocol
+- ABP bus protocol
+- PCIe interface
+
+### Other Skills and Technologies:
+- High-Level Synthesis (HLS) flow
+- High-speed communication protocols
+- Zero-Knowledge Proof (ZKP) related technology
+- Hardware Implementation of SHA-256 algorithm
+- Hardware Development of the Number Theoretic Transform (NTT)
+- Hardware Development of the Multi-Scalar Multiplication (MSM)
+- Hardware Development of FPGA-based Underwater Sonar Devices
+- Implementing Lossless and Near-Lossless Sonar audio and RAW Data compression using IMA ADPCM Algorithm
+- Implementing a modified version JPEG-LS (JPEG- Lossless image compression standard)
+- FPGA-to-FPGA Communication Using Xilinx Aurora IP
+- Ethernet-Based data transfer between PC Software and FPGA-Based Sonar Hardware Device using LWIP
+- Custom USB HID implementation
+- Debugging and redesigning a VHDL code for variable frequency generation and control of the Sonar Acoustic Camera Device based on Xilinx Artix-7 FPGA
+- MATLAB for various tasks, including verification of I2S protocol and FFT output comparison
+- RTL design and verification of various digital circuits and systems
+- FPGA and GPU acceleration for ZKP systems
+
 
 <!-- <code><img height="27" src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" alt="go"></code>
 <code><img height="27" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" alt="docker"></code>
