@@ -69,6 +69,9 @@
  - Microprocessors
  	- ARM
  	- RISC-V
+  - ASICs
+	  - MagnaChip 130nm
+	  - Samsung 65nm
 
 ### Software and Tools:
 - Xilinx (Vitis HLS, Vivado, Vitis)
