@@ -56,13 +56,14 @@
 
 ### Hardware Platforms:
 - Xilinx FPGAs
-- Altera FPGAs
+- Xilinx Accelerators cards (U55, U280, U250)
+- Intel FPGAs
+- Intel Accelerators cards (BittWare IA-840f)
 - STM32 Microcontroller
 
 ### Software and Tools:
-- Xilinx Vivado HLS
-- Xilinx DSP & HBM primitives
-- Xilinx Accelerators cards (U55, U280, U250)
+- Xilinx (Vitis HLS, Vivado, Vitis)
+- Intel (Quartus Prime, oneAPI)
 
 ### Protocols:
 - AXI-4 MM, Lite, and Stream protocol
