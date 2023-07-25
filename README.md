@@ -55,11 +55,20 @@
 - Bash
 
 ### Hardware Platforms:
-- Xilinx FPGAs
-- Xilinx Accelerators cards (U55, U280, U250)
-- Intel FPGAs
-- Intel Accelerators cards (BittWare IA-840f)
-- STM32 Microcontroller
+- FPGAs
+	- Xilinx FPGAs
+	- Intel FPGAs
+- Accelerators cards
+	- Xilinx Accelerators cards (U55, U280, U250)
+   	- Intel Accelerators cards (BittWare IA-840f)
+- Microcontroller
+	- STM32 Microcontroller
+	- Arduino
+	- PIC
+	- Cypress PSoC
+ - Microprocessors
+ 	- ARM
+ 	- RISC-V
 
 ### Software and Tools:
 - Xilinx (Vitis HLS, Vivado, Vitis)
