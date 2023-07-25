@@ -10,11 +10,12 @@
 - 💬 Ask me about my experience with ASIC tape-outs, RTL coding, FPGA synthesis, or anything related to hardware architecture and design!...
 - 📫 How to reach me: [Github](https://github.com/hossamfadeel), [Linkedin](https://www.linkedin.com/in/hossam-fadeel-hassan/)
 
-
+<!--
 ```
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ```
+ -->
 
 ## Hey 👋, I'm [Hossam Hassan](https://github.com/hossamfadeel/)!
 
