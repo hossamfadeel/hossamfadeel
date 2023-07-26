@@ -26,22 +26,7 @@
 
 <!-- .👨🏻‍💻. Software Engineer .🎓. Pusan National University .🏛. Egyptian Based in South Korea .📍. Three times Hackathon Winner .🏆. Passionate about finding innovative solutions for global challenges .🌍. Motivated to help designing cutting-edge technologies .💡. I love to explore new technologies and leverage them to solve real-life problems .✨. Currently into DevOps .♾️. and Blockchain .💰🚀₿.  -->
 
-
-### Talking about Personal Stuffs:
-
-<!-- - 🛠 &nbsp; I’m currently working with Golang, Nodejs, C++, Gitlab-CI, RestAPI, Javascript, etc. -->
-<!-- - 🚀 &nbsp; I’m currently working at [NotionTheory](https://notiontheory.com). -->
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hossamfadeel).
-- 📫 &nbsp; How to reach me: hossamfadeel@gmail.com.
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-
 ## Skills
-
 ### Programming Languages:
 - Verilog
 - SystemVerilog
@@ -101,7 +86,20 @@
 - RTL design and verification of various digital circuits and systems
 - FPGA and GPU acceleration for ZKP systems
 
+### Talking about Personal Stuffs:
 
+<!-- - 🛠 &nbsp; I’m currently working with Golang, Nodejs, C++, Gitlab-CI, RestAPI, Javascript, etc. -->
+<!-- - 🚀 &nbsp; I’m currently working at [NotionTheory](https://notiontheory.com). -->
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hossamfadeel).
+- 📫 &nbsp; How to reach me: hossamfadeel@gmail.com.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+
+- 
 <!-- <code><img height="27" src="https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" alt="go"></code>
 <code><img height="27" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" alt="docker"></code>
 <code><img height="27" src="https://kubernetes.io/images/favicon.png" alt="kubernetes"></code>
