@@ -12,7 +12,8 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hossamfadeel.github.io/)
 
 
-### Welcome to my profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=hossamfadeel.hossamfadeel&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=hossamfadeel.hossamfadeel&style=flat-square&color=0088cc)
+
 
 ## Skills
 
