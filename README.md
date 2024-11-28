@@ -22,14 +22,15 @@
 - SystemVerilog
 - VHDL
 - Python
-- C
+- C/C++
+- HLS
 - Tcl
 - Bash
 
 ### Hardware Platforms
 - **FPGAs:**
-  - Xilinx FPGAs
-  - Intel FPGAs
+  - AMD (Xilinx) FPGAs
+  - Intel (Altera) FPGAs
 - **Accelerator Cards:**
   - Xilinx Accelerator Cards (U55, U280, U250)
   - Intel Accelerator Cards (BittWare IA-840f)
@@ -51,7 +52,7 @@
 - MATLAB
 - Synopsys: Design Compiler, VCS, IC Compiler
 - Cadence: Genus, Xcelium
-- Mentor Graphics ModelSim/Questa
+- Mentor Graphics ModelSim/Questa/Visualizer
 
 ### Protocols
 - AXI-4 MM, Lite, and Stream Protocol
